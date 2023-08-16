@@ -15,11 +15,11 @@ Following concepts can be learent from this app
  - Random numbers
  - Materials and Scaffold widgets
 
-               ![image](https://github.com/Saad-Zaman1/Dice-Rollar-App/assets/88928048/975fb854-cbdf-48eb-a7b5-3f84f396044d)
+   ![image](https://github.com/Saad-Zaman1/Dice-Rollar-App/assets/88928048/975fb854-cbdf-48eb-a7b5-3f84f396044d)
 
 
 
-               ![image](https://github.com/Saad-Zaman1/Dice-Rollar-App/assets/88928048/6acad918-5cb2-4ecd-9ef5-032b5417d27e)
+    ![image](https://github.com/Saad-Zaman1/Dice-Rollar-App/assets/88928048/6acad918-5cb2-4ecd-9ef5-032b5417d27e)
 
 
    
