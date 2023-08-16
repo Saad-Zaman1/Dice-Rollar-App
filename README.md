@@ -6,11 +6,21 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Following concepts can be learent from this app
+ - Stateless and Statefull class creation
+ - Using setState method
+ - Using images in widgets
+ - Using gradient colors
+ - Styling the texts
+ - Random numbers
+ - Materials and Scaffold widgets
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+               ![image](https://github.com/Saad-Zaman1/Dice-Rollar-App/assets/88928048/975fb854-cbdf-48eb-a7b5-3f84f396044d)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+               ![image](https://github.com/Saad-Zaman1/Dice-Rollar-App/assets/88928048/6acad918-5cb2-4ecd-9ef5-032b5417d27e)
+
+
+   
+
